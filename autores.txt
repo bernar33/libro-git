@@ -1,0 +1,1 @@
+Nombre del usuario: TuNombre\nCorreo electrónico: tuemail@example.com
